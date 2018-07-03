@@ -96,6 +96,7 @@ input {
     height: 35px;
     width: 100%;
     font-family: arial;
+    min-width: 600px;
 }
 
 .bottom-site-links {
